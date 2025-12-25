@@ -46,7 +46,6 @@ I specialize in:
 ---
 
 ## GitHub Stats / Estadísticas
-Estas tarjetas se actualizan automáticamente (si tu usuario es `juanluiscc-gif`):
 
 ![Juan Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanluiscc-gif&show_icons=true&theme=default&locale=es)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanluiscc-gif&layout=compact&theme=default&langs_count=8)
@@ -58,7 +57,7 @@ Reemplaza los marcadores con tus enlaces/contactos reales cuando quieras que apa
 
 - Email / Correo: juanluiscortescervantes@gmail.com
 - LinkedIn: https://www.linkedin.com/in/juan-luis-cortés-cervantes
-- Telegram: https://t.me/tu_usuario
+- Telegram: https://t.me/JuanLCC
 
 ---
 
