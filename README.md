@@ -1,8 +1,8 @@
 # Juan Luis Cortés Cervantes — Científico de datos / Data Scientist
 
 **Científico de datos**  
-Data scientist with a background in psychology and a law student.  
 Científico de datos con formación en psicología y estudiante de derecho.
+Data scientist with a background in psychology and a law student.  
 
 ---
 
